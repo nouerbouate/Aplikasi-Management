@@ -1,4 +1,4 @@
-#  APLIKASI INVOICE MANAGEMENT#
+#  APLIKASI INVOICE MANAGEMENT #
 
 Aplikasi ini dipakai untuk mengelola invoice dan menyambungkan dengan berbagai metode pembayaran.
 Diantara metode pembayaran yang akan disupport
