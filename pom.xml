@@ -12,7 +12,7 @@
 	<artifactId>invoice-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>invoice-management</name>
-	<description>Aplikasi Invoice Managent</description>
+	<description>Aplikasi Invoice Management</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -29,10 +29,10 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.flywaydb</groupId>
-			<artifactId>flyway-core</artifactId>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>org.flywaydb</groupId>-->
+<!--			<artifactId>flyway-core</artifactId>-->
+<!--		</dependency>-->
 
 		<dependency>
 			<groupId>org.postgresql</groupId>
